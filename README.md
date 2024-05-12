@@ -1,5 +1,5 @@
 
-                                                              ⚠⚠ Malheureusement notre site repertorie qu'un seul CV car nous trouvions cela plus clair et comprehensible  ⚠⚠
+  ⚠⚠ Malheureusement notre site repertorie qu'un seul CV car nous trouvions cela plus clair et comprehensible  ⚠⚠
 
 
 Objectif du site : Notre site web est conçu pour présenter de manière interactive nos expériences professionnelles, nos formation, nos compétences et nos coordonnées de contact. 
@@ -28,7 +28,10 @@ Contact :
 
 Stylisation : 
        Le site est conçu avec une esthétique professionnelle et épurée. Le choix de couleurs est sobre et élégant. 
-       Les polices utilisées sont claires et faciles à lire. Les sections sont clairement délimitées et présentent
-       un fond blanc pour une meilleure visibilité du contenu.
+       Les polices utilisées sont claires et faciles à lire. Les sections sont clairement délimitées et présentent un fond blanc pour une meilleure visibilité du contenu.
+       
+       
+  ⚠⚠ Nous sommes desoler mais notre site n'as pas etait realiser a l'aide de votre methode car malheureusement la personne qui detonner les I
 
-
+                                                        
+                                                                                   
